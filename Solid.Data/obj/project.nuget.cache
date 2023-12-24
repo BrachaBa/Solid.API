@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cACX3KSWYPvU2kXRSMiUDrQIilJy711rn5knfsT2hUicuD7Dbcjv0eINhsVyRY5S5W54QCI7Upd3dZR8/Slx3A==",
+  "dgSpecHash": "doXqiAfwCB0PN1abTpx32RM5UOKr6OLhVtqvaBWAAwvUQ8wN4e8zNcrdUTvHAQsdF3zaDmSchFyEUro76ND7yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shufra\\Source\\Repos\\Solid.Net\\Solid.Data\\Solid.Data.csproj",
+  "projectFilePath": "C:\\Users\\shufra\\Downloads\\Solid1.Net\\Solid.Data\\Solid.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shufra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\shufra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
