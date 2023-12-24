@@ -1,15 +1,15 @@
-﻿using Solid.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solid.Core.Entities;
 
 namespace Solid.Data
 {
-    public class DataContext
+    public class DataContext: DbContext
     {
-        public List<User> UserList { get; set; }
+        public DbSet<User> UserList { get; set; }
 
-        public DataContext()
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            UserList = new List<User>();
-            //get from csv
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=sample_db");
         }
     }
 }

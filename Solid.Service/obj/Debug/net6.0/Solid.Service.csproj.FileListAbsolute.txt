@@ -13,3 +13,18 @@ D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug
 D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
 D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
 D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\shufra\Source\Repos\Solid.Net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Solid.Data.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository:IUserRepository
     {
         private readonly DataContext _context;
 
@@ -25,29 +25,44 @@ namespace Solid.Data.Repositories
 
         public void DeleteUser(int id)
         {
-            _context.UserList.Remove(_context.UserList.Find(u => u.Id == id));
+            throw new NotImplementedException();
         }
 
         public User GetById(int id)
         {
-            return _context.UserList.Find(u => u.Id == id);
+            throw new NotImplementedException();
         }
+
+        //public void DeleteUser(int id)
+        //{
+        //    _context.UserList.Remove(_context.UserList.Find(u => u.Id == id));
+        //}
+
+        //public User GetById(int id)
+        //{
+        //    return _context.UserList.Find(u => u.Id == id);
+        //}
 
         public List<User> GetUsers()
         {
-            return _context.UserList;
+            return _context.UserList.ToList();
         }
 
         public User UpdateUser(int id, User user)
         {
-            var updateUser = _context.UserList.Find(u => u.Id == id);
-            if (updateUser != null)
-            {
-                updateUser.Name = user.Name;
-                updateUser.Email = user.Email;
-                return updateUser;
-            }
-            return null;
+            throw new NotImplementedException();
         }
+
+        //public User UpdateUser(int id, User user)
+        //{
+        //    var updateUser = _context.UserList.Find(u => u.Id == id);
+        //    if (updateUser != null)
+        //    {
+        //        updateUser.Name = user.Name;
+        //        updateUser.Email = user.Email;
+        //        return updateUser;
+        //    }
+        //    return null;
+        //}
     }
 }
